@@ -1,0 +1,20 @@
+{
+    "name": "gerador/horarios",
+    "authors": [
+        {
+            "name": "Pedro Ramos",
+            "email": "unkown@tecnico.ulisboa.pt"
+        },
+	{
+
+            "name": "Miguel Fazneda",
+            "email": "unkown@tecnico.ulisboa.pt"
+	}
+	{
+
+            "name": "andre",
+            "email": "andre.cavalheiro@tecnico.ulisboa.pt"
+	}
+    ],
+    "require": {}
+}
